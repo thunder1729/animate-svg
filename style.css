@@ -8,13 +8,13 @@ body{
 }
 
 #right_wheel{
-    animation: wheel 0.1s  infinite linear;
+    animation: wheel 0.2s  infinite linear;
     transform-origin: center;
     transform-box: fill-box;
 }
 
 #left_wheel{
-    animation: wheel 0.1s  infinite linear;
+    animation: wheel 0.2s  infinite linear;
     transform-origin: center;
     transform-box: fill-box;
 } 
